@@ -6,5 +6,4 @@ src/main/resources/templates/
 /.idea/
 /mvnw
 /mvnw.cmd
-
-
+/target/
